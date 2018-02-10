@@ -1,0 +1,56 @@
+# Byte compiled
+__pycache__/
+/__pycache__
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distributions / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer Logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit tests/coverage
+htmlcov/
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# jupyter notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints
+
+# user specific stuff
+.idea/
+.idea
+
