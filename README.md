@@ -6,5 +6,6 @@ A collection of tutorials related to data science, machine learning, python, and
 * [Jupyter Notebook Tips and Tricks](https://github.com/datawrestler/Tutorials/blob/master/JupyterNotebook/JupyterNotebookHacks.ipynb)
 * [Pandas Split/Apply/Combine](https://github.com/datawrestler/Tutorials/blob/master/Pandas/SplitApplyCombine.ipynb)
 * [Pandas Indexing/Multi Indexing](https://github.com/datawrestler/Tutorials/blob/master/Pandas/PandasIndexing.ipynb)
+* [Text Analytics](https://github.com/datawrestler/Tutorials/tree/master/TextAnalytics)
 * More to come :)  
 
